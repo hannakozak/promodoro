@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a6fbaeae561bb018a242cb0a673c136",
+    "revision": "673b61fe0e1e08f12fcda2e83e27e2eb",
     "url": "/promodoro/index.html"
   },
   {
-    "revision": "d2bb2dad14a918bc2397",
+    "revision": "6fdbf88e1dcfad1cba11",
     "url": "/promodoro/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "234264c854adf18d7c5b",
-    "url": "/promodoro/static/js/2.fee1680d.chunk.js"
+    "revision": "b9cc16e86e037f9fecf9",
+    "url": "/promodoro/static/js/2.46e403e9.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/promodoro/static/js/2.fee1680d.chunk.js.LICENSE.txt"
+    "url": "/promodoro/static/js/2.46e403e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2bb2dad14a918bc2397",
-    "url": "/promodoro/static/js/main.ac7c9d51.chunk.js"
+    "revision": "6fdbf88e1dcfad1cba11",
+    "url": "/promodoro/static/js/main.9008b3ee.chunk.js"
   },
   {
     "revision": "8e3654250d130e7b7fe8",
